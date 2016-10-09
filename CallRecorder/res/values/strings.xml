@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CallRecorder</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menutext">پس از فعال کردن برنامه، مکالمات به طور خودکار ضبط می شوند و در فولدر recorded calls  ذخیره می شوند.</string>
+	<string name="menuText2">درصورتی که برنامه را از طریق task manager متوقف کنید، ضبط مکالمات متوقف خواهد شد.</string>
+	<string name="name">دانیال عبدالهی</string>
+	<string name="email">danialabdl90@gmail.com</string>
+	<drawable name="btnColor">#77AADD</drawable>
+	<drawable name="OFF">#FF4466</drawable>
+	<drawable name="enableState">#FFF</drawable>
+	<drawable name="disableState">#DDD</drawable>
+	<string name="title">ضبط مکالمه</string>
+	
+</resources>
